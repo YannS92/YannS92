@@ -2,7 +2,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YannS92&count_private=true&show_icons=true&theme=tokyonight)
 
-  <img align="right" alt="Coding" width="400" src="https://tenor.com/bWUBJ.gif">
+  
+  <gif align="right" alt="Coding" width="400" src="https://tenor.com/bWUBJ.gif">
+  
 <!--
 **YannS92/YannS92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
